@@ -1,7 +1,8 @@
 # rock-4se-kali
 A Kali Linux ARM image for the RADXA Rock Pi 4 SE
 
-The image is 18.2 GB and therefore at least a 32GB SD card is required
+The image is 18.2 GB and therefore at least a 32GB SD card is required. 
+This is a kali linux large installation
 
 Username: kali
 
