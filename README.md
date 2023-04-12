@@ -13,7 +13,8 @@ Username: kali
 Password: kali
 
 
-Download at <Link follows ine the next 24 hours>
+Download at <a href="https://mein.link.com/kali.img.xz">rock4se-kali-linux-default-W15-xfce.img.xz</a> (3.9GB)
+
 
 
 --------------------
