@@ -5,8 +5,8 @@ A Kali Linux ARM image for the RADXA Rock Pi 4 SE
 1.) KALI LINUX DEFAULT
 ----------------------
 
-The image is X.X GB and therefore at least a X GB SD card is required.
-This is the kali linux default tool set without kingphisher.
+The image is 14.2 GB and therefore at least a 16 GB SD card is required.
+This is the kali linux default without kingphisher.
 
 Username: kali
 
