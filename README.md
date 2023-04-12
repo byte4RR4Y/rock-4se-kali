@@ -6,14 +6,14 @@ A Kali Linux ARM image for the RADXA Rock Pi 4 SE
 ----------------------
 
 The image is 14.2 GB and therefore at least a 16 GB SD card is required.
-This is the kali linux default without kingphisher.
+This is kali linux default without kingphisher.
 
 Username: kali
 
 Password: kali
 
 
-Download at <a href="https://mein.link.com/kali.img.xz">rock4se-kali-linux-default-W15-xfce.img.xz</a> (3.9GB)
+Download at <a href="https://drive.google.com/file/d/1sig3IbY23cuAeM2c20aRQESbx57z_mBA/view?usp=sharing">rock4se-kali-linux-default-W15-xfce.img.xz</a> (3.9GB)
 
 
 
