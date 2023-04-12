@@ -29,5 +29,5 @@ Username: kali
 Password: kali
 
 
-Download at <a href="https://drive.google.com/file/d/1Y3sdIRUpIeSQrwPAoK9qEJWTxi7Vw0GS/view?usp=sharing">rock4se-kali-linux-large-W15-xfce.img.xz</a> (5.2GB)
+Download at <a href="https://drive.google.com/file/d/1Y3sdIRUpIeSQrwPAoK9qEJWTxi7Vw0GS/view?usp=share_link">rock4se-kali-linux-large-W15-xfce.img.xz</a> (5.2GB)
 
