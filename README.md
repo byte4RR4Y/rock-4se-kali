@@ -2,7 +2,7 @@
 A Kali Linux ARM image for the RADXA Rock Pi 4 SE
 
 
-The image needs 1-2 minutes to boot the dessktop
+The image needs 1-2 minutes to boot the desktop
 
 ----------------------
 1.) KALI LINUX DEFAULT
