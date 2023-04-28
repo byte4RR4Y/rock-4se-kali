@@ -27,14 +27,13 @@ Download at <a href="https://drive.google.com/file/d/1sig3IbY23cuAeM2c20aRQESbx5
 -------------------
 
 This is a kali build from the bottom on a kali root filesystem it works but it's not finished
+---------------------------------------------------------------------------------------------
 
-The image is 11 GB and therefore at least a 16GB SD card is required. 
+The image is 11.3 GB and therefore at least a 16GB SD card is required. 
 This is a kali linux default installation with all tools
 
-Username: kali
-
-Password: kali
+---------------------------------------------------------------------------------------------
 
 This link will work in a few hours...........................(please be patient)
-Download at <a href="HIER URL EINFÜGEN">rock-4se-kali-linux_beta.img</a> (5.2GB)
+Download at <a href="HIER URL EINFÜGEN">rock-4se-kali-linux_beta.img</a> (11.3GB)
 
