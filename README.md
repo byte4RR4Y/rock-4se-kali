@@ -9,13 +9,13 @@ A Kali Linux ARM image for the RADXA Rock Pi 4 SE - rk3399t
 This is a kali build from the bottom of a kali root filesystem it works but it's not finished
 ---------------------------------------------------------------------------------------------
 
-The image is 11.3 GB and therefore at least a 16GB SD card is required. 
+The image is 11.0 GB and therefore at least a 16GB SD card is required. 
 This is a kali linux default installation with all tools
 ---------------------------------------------------------------------------------------------
                  !!! YOU MUST MANUALLY RESIZE YOUR ROOT PARTITION !!!
 ---------------------------------------------------------------------------------------------
 
-Download at <a href="https://drive.google.com/file/d/1q0ct6kwbuh1ETYC2EPkrdjizOzXuiUZO/view?usp=share_link">rock-4se-kali-linux_beta.img.xz</a> (2.1GB)
+Download at <a href="https://drive.google.com/file/d/1PldfPh6fVvC8JuAJnb--BDoocF7hENYU/view?usp=sharing">rock-4se-kali-linux_beta2.img.xz</a> (2.2GB)
 
 
  
