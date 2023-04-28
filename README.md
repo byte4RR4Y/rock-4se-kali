@@ -14,7 +14,9 @@ This is a kali linux default installation with all tools
 
 ---------------------------------------------------------------------------------------------
 
-Download at <a href="(https://drive.google.com/file/d/1q0ct6kwbuh1ETYC2EPkrdjizOzXuiUZO/view?usp=sharing)">rock-4se-kali-linux_beta.img.xz</a> (2.1GB)
+Download at <a href="https://drive.google.com/file/d/1q0ct6kwbuh1ETYC2EPkrdjizOzXuiUZO/view?usp=share_link">rock-4se-kali-linux_beta.img.xz</a> (2.1GB)
+
+
  
               ##################################################################
                                            TO DO LIST               (2023-04-28)
