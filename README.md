@@ -16,7 +16,14 @@ This is a kali linux default installation with all tools
 
 This link will work in less then 30minutes......................(please be patient)
 Download at <a href="HIER URL EINFÜGEN">rock-4se-kali-linux_beta.img.xz</a> (2.1GB)
-
+ 
+              ##################################################################
+                                           TO DO LIST               (2023-04-28)
+              ##################################################################
+                                    install wireless firmware
+                                          autostart xfce
+                                    install kali linux kernel
+              ##################################################################
 
 
 ---------------------
@@ -24,7 +31,7 @@ Download at <a href="HIER URL EINFÜGEN">rock-4se-kali-linux_beta.img.xz</a> (2.
 ---------------------
 It's build on Debian but works fine
 
-The image needs 1-2 minutes to boot the desktop
+The image needs 1-2 minutes to boot the desktop but runs stable with a kali linux kernel.
 
 The image is 14.2 GB and therefore at least a 16 GB SD card is required.
 This is kali linux default without kingphisher.
