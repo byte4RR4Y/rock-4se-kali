@@ -21,7 +21,7 @@ Download at <a href="https://drive.google.com/file/d/1q0ct6kwbuh1ETYC2EPkrdjizOz
               ##################################################################
                                            TO DO LIST               (2023-04-28)
               ##################################################################
-                                    install wireless firmware
+                               install (internal)wireless firmware
                                           autostart xfce
                                     install kali linux kernel
               ##################################################################
