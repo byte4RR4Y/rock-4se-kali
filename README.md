@@ -11,7 +11,8 @@ This is a kali build from the bottom of a kali root filesystem it works but it's
 
 The image is 11.3 GB and therefore at least a 16GB SD card is required. 
 This is a kali linux default installation with all tools
-YOU MUST MANUALLY RESIZE YOUR ROOT PARTITION
+---------------------------------------------------------------------------------------------
+                 !!! YOU MUST MANUALLY RESIZE YOUR ROOT PARTITION !!!
 ---------------------------------------------------------------------------------------------
 
 Download at <a href="https://drive.google.com/file/d/1q0ct6kwbuh1ETYC2EPkrdjizOzXuiUZO/view?usp=share_link">rock-4se-kali-linux_beta.img.xz</a> (2.1GB)
@@ -28,7 +29,7 @@ Download at <a href="https://drive.google.com/file/d/1q0ct6kwbuh1ETYC2EPkrdjizOz
 
 
 ---------------------
-2.) KALI LINUX DEBIAN          (builded on Debian)
+2.) KALI LINUX DEBIAN          (build on Debian)
 ---------------------
 It's build on Debian but works fine
 
