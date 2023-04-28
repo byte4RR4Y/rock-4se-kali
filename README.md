@@ -14,8 +14,8 @@ This is a kali linux default installation with all tools
 
 ---------------------------------------------------------------------------------------------
 
-This link will work in a few hours...........................(please be patient)
-Download at <a href="HIER URL EINFÜGEN">rock-4se-kali-linux_beta.img</a> (11.3GB)
+This link will work in less then 30minutes......................(please be patient)
+Download at <a href="HIER URL EINFÜGEN">rock-4se-kali-linux_beta.img.xz</a> (2.1GB)
 
 
 
