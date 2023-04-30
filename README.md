@@ -3,29 +3,26 @@ A Kali Linux ARM image for the RADXA Rock Pi 4 SE - rk3399t
 
 
 -------------------
-1.) REAL KALI LINUX              (real Kali Linux)
+1.) REAL KALI LINUX              (but using the rockchip kernel 5.10.110-6)
 -------------------
 
 This is a kali build from the bottom of a kali root filesystem it works but it's not finished
 ---------------------------------------------------------------------------------------------
 
-The image is 11.0 GB and therefore at least a 16GB SD card is required. 
+The image is 12.8 GB and therefore at least a 16GB SD card is required. 
 This is a kali linux default installation with all tools
----------------------------------------------------------------------------------------------
-                 !!! YOU MUST MANUALLY RESIZE YOUR ROOT PARTITION !!!
----------------------------------------------------------------------------------------------
+-----------------------------------------------------
+!!! YOU MUST MANUALLY RESIZE YOUR ROOT PARTITION !!!
+-----------------------------------------------------
 
-Download at <a href="https://drive.google.com/file/d/1PldfPh6fVvC8JuAJnb--BDoocF7hENYU/view?usp=sharing">rock-4se-kali-linux_beta2.img.xz</a> (2.2GB)
-
+Download at <a href="https://drive.google.com/file/d/1LSgrsmYaFGldsMxixyLHRqspomgUeKog/view?usp=sharing">rock-4se-kalilinux-2023-04-29.img.xz</a> (2.8GB)
 
  
-              ##################################################################
-                                           TO DO LIST               (2023-04-28)
-              ##################################################################
-                               install (internal)wireless firmware
-                                          autostart xfce
-                                    install kali linux kernel
-              ##################################################################
+  ##################################################################
+                            TO DO LIST:                 (2023-04-29)
+  ##################################################################
+                     install kali linux kernel
+  ##################################################################
 
 
 ---------------------
