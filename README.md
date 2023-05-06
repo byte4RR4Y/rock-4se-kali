@@ -1,32 +1,31 @@
 # rock-4se-kali
-A Kali Linux ARM image for the RADXA Rock Pi 4 SE - rk3399t 
+A Kali Linux ARM image for the RADXA Rock Pi 4 SE - rk3399t
+"If it doesn't exist, create it yourself." Daniel Wieczorek
 
 
 -------------------
-1.) REAL KALI LINUX              (but using the rockchip kernel 5.10.110-6)
+1.) REAL KALI LINUX            (kernel 6.1.0-kali7-arm64)
 -------------------
+---------------------------------------------------------------
+This is a kali build from the bottom of a kali root filesystem
+---------------------------------------------------------------
 
-This is a kali build from the bottom of a kali root filesystem it works but it's not finished
----------------------------------------------------------------------------------------------
+The image is 15.7 GB and therefore a 32 GB SD card is recommended(if you want to install software). 
 
-The image is 12.8 GB and therefore at least a 16GB SD card is required. 
-This is a kali linux default installation with all tools
 -----------------------------------------------------
 !!! YOU MUST MANUALLY RESIZE YOUR ROOT PARTITION !!!
 -----------------------------------------------------
 
-Download at <a href="https://drive.google.com/file/d/1LSgrsmYaFGldsMxixyLHRqspomgUeKog/view?usp=sharing">rock-4se-kalilinux-2023-04-29.img.xz</a> (2.8GB)
+Download at <a href="https://drive.google.com/file/d/1QoC4TYqMhqN2ZGgexg_mCqpXTqODOYb7/view?usp=sharing">Kali-Linux-XFCE-wifi-bluetooth-2023-05-06.img.xz</a> (3.1 GB)
 
- 
-  ##################################################################
-                            TO DO LIST:                 (2023-04-29)
-  ##################################################################
-                     install kali linux kernel
-  ##################################################################
+ISSUES:
+BLACK SCREEN:
+
+If you have a black screen after a boot-time of 2 mins you moust mount the root filesystem and edit /etc/X11/xorg.conf.d/10-monitor.conf and set the right Screenresolution(e.g.: 1920x1080).
 
 
 ---------------------
-2.) KALI LINUX DEBIAN          (build on Debian)
+2.) KALI LINUX DEBIAN          (build on Debian with kernel 6.1.0-kali7-rt-arm64)
 ---------------------
 It's build on Debian but works fine
 
