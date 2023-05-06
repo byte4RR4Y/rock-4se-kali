@@ -37,4 +37,6 @@ This is kali linux default without kingphisher.
 Username: kali
 Password: kali
 
+!! DO NOT OVERCLOCK WITH 'rsetup' !!
+
 Download at <a href="https://drive.google.com/file/d/1sig3IbY23cuAeM2c20aRQESbx57z_mBA/view?usp=sharing">rock4se-kali-linux-default-2023-W15-xfce.img.xz</a> (3.9GB)
