@@ -26,10 +26,6 @@ login:_________kali
 password:____kali
 
 
------------------------------------------------------
-!!! YOU MUST MANUALLY RESIZE YOUR ROOT PARTITION !!!
------------------------------------------------------
-
 Download at <a href="https://drive.google.com/file/d/1R5yjq9kJbd6lxPB7g_EjfIm-yuXF_8nW/view?usp=sharing">kali-final-2023-05-07.img.xz</a> (3.3 GB)
 
 
@@ -46,16 +42,6 @@ If you have a black screen after a boot-time of 1 minute and 5 seconds you moust
     EndSection
 -----------------------------------------------------
 
-
-
-2.)CORRUPT ZSH_HISTORY FILE:
-
------------------------------------------------------
-          cd ~
-          mv .zsh_history .zsh_history_bad
-          strings -eS .zsh_history_bad > .zsh_history
-          fc -R .zsh_history
------------------------------------------------------
 
 
 !! DO NOT OVERCLOCK WITH 'rsetup' !!
