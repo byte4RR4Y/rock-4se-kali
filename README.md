@@ -23,6 +23,9 @@ BLACK SCREEN:
 
 If you have a black screen after a boot-time of 1 minute and 5 seconds you moust mount the root filesystem and edit /etc/X11/xorg.conf.d/10-monitor.conf and set the right Screenresolution(e.g.: 1920x1080).
 
+#################################################################################
+#################################################################################
+
 
 ---------------------
 2.) KALI LINUX DEBIAN          (build on Debian with kernel 6.1.0-kali7-rt-arm64)
