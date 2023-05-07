@@ -29,12 +29,18 @@ BLACK SCREEN:
 If you have a black screen after a boot-time of 1 minute and 5 seconds you moust mount the root filesystem on your Linux-Machine and edit /etc/X11/xorg.conf.d/10-monitor.conf and set the right Screenresolution(e.g.: 1920x1080).
 
 CORRUPT ZSH_HISTORY FILE:
-
+-----------------------------------------------------
 cd ~
+-----------------------------------------------------
+-----------------------------------------------------
 mv .zsh_history .zsh_history_bad
+-----------------------------------------------------
+-----------------------------------------------------
 strings -eS .zsh_history_bad > .zsh_history
+-----------------------------------------------------
+-----------------------------------------------------
 fc -R .zsh_history
-
+-----------------------------------------------------
 
 
 !! DO NOT OVERCLOCK WITH 'rsetup' !!
