@@ -46,11 +46,8 @@ If you have a black screen after a boot-time of 1 minute and 5 seconds you moust
 
 -----------------------------------------------------
           cd ~
------------------------------------------------------
           mv .zsh_history .zsh_history_bad
------------------------------------------------------
           strings -eS .zsh_history_bad > .zsh_history
------------------------------------------------------
           fc -R .zsh_history
 -----------------------------------------------------
 
