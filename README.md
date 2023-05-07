@@ -3,6 +3,12 @@
 
 "If it doesn't exist, create it yourself." Daniel Wieczorek
 
+
+Download docker image(it's more up to date)with the following command and build it on your own:
+-----------------------------------------------------------------------------------------------
+docker pull byte4rr4y/kalilinux-rock4se
+-----------------------------------------------------------------------------------------------
+
 I've added a cllection of wallpapers.
 
 -------------------
