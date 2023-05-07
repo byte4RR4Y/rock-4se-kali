@@ -12,6 +12,9 @@ This is a kali build from the bottom of a kali root filesystem
 
 The image is 15.7 GB and therefore a 32 GB SD card is recommended(if you want to install software). 
 
+login:    kali
+password: kali
+
 -----------------------------------------------------
 !!! YOU MUST MANUALLY RESIZE YOUR ROOT PARTITION !!!
 -----------------------------------------------------
