@@ -30,7 +30,7 @@ password:____kali
 !!! YOU MUST MANUALLY RESIZE YOUR ROOT PARTITION !!!
 -----------------------------------------------------
 
-Download at <a href="https://drive.google.com/file/d/1ThpTQD_hTV_XHnc50TdDmaR5FZ2aM5Li/view?usp=sharing">Kali-preview-2023-05-07.img.xz</a> (3.3 GB)
+Download at <a href="https://drive.google.com/file/d/1R5yjq9kJbd6lxPB7g_EjfIm-yuXF_8nW/view?usp=sharing">akli-final-2023-05-07.img.xz</a> (3.3 GB)
 
 
 
