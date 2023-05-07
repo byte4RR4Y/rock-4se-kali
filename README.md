@@ -1,7 +1,9 @@
 # rock-4se-kali
-A Kali Linux ARM image for the RADXA Rock Pi 4 SE - rk3399t
+# A Kali Linux ARM image for the RADXA Rock Pi 4 SE - rk3399t
+
 "If it doesn't exist, create it yourself." Daniel Wieczorek
 
+I've added a cllection of wallpapers.
 
 -------------------
 1.) REAL KALI LINUX            (kernel 6.1.0-kali7-arm64)
@@ -10,7 +12,7 @@ A Kali Linux ARM image for the RADXA Rock Pi 4 SE - rk3399t
 This is a kali build from the bottom of a kali root filesystem
 ---------------------------------------------------------------
 
-The image is 15.7 GB and therefore a 32 GB SD card is recommended(if you want to install software). 
+The image is 15.8 GB and therefore a 32 GB SD card is recommended(if you want to install software). 
 
 login:_________kali
 
@@ -20,7 +22,7 @@ password:____kali
 !!! YOU MUST MANUALLY RESIZE YOUR ROOT PARTITION !!!
 -----------------------------------------------------
 
-Download at <a href="https://drive.google.com/file/d/1QoC4TYqMhqN2ZGgexg_mCqpXTqODOYb7/view?usp=sharing">Kali-Linux-XFCE-wifi-bluetooth-2023-05-06.img.xz</a> (3.1 GB)
+Download at <a href="https://drive.google.com/file/d/1ThpTQD_hTV_XHnc50TdDmaR5FZ2aM5Li/view?usp=sharing">Kali-preview-2023-05-07.img.xz</a> (3.3 GB)
 
 ISSUES:
 
