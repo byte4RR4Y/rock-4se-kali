@@ -14,7 +14,7 @@ The image is 15.7 GB and therefore a 32 GB SD card is recommended(if you want to
 
 login:_________kali
 
-password:______kali
+password:____kali
 
 -----------------------------------------------------
 !!! YOU MUST MANUALLY RESIZE YOUR ROOT PARTITION !!!
