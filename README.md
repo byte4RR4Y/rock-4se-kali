@@ -26,10 +26,10 @@ login:_________kali
 password:____kali
 
 
-_________________________________________________
-| !!FIRST BOOT TAKES 2 MINUTES AND 12 SECONDS!! |
-|        FOR RESIZING THE ROOT FILESYSTEM       |
-|_______________________________________________|
+-------------------------------------------------
+  !!FIRST BOOT TAKES 2 MINUTES AND 12 SECONDS!!
+         FOR RESIZING THE ROOT FILESYSTEM
+-------------------------------------------------
 
 Download at <a href="https://drive.google.com/file/d/1R5yjq9kJbd6lxPB7g_EjfIm-yuXF_8nW/view?usp=sharing">kali-final-2023-05-07.img.xz</a> (3.3 GB)
 
