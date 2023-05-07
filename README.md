@@ -5,8 +5,9 @@
 
 
 Download docker image(it's more up to date)with the following command and build it on your own:
+
 -----------------------------------------------------------------------------------------------
-docker pull byte4rr4y/kalilinux-rock4se
+                    docker pull byte4rr4y/kalilinux-rock4se:latest
 -----------------------------------------------------------------------------------------------
 
 I've added a cllection of wallpapers.
