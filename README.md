@@ -3,31 +3,18 @@
 
 "If it doesn't exist, create it yourself." Daniel Wieczorek
 
-
-Download docker image(it's more up to date)with the following command and build it on your own:
-
------------------------------------------------------------------------------------------------
-         docker pull byte4rr4y/kalilinux-rock4se
------------------------------------------------------------------------------------------------
-
-I've added a cllection of wallpapers.
-
 ----------------
-REAL KALI LINUX         (kernel 6.1.0-kali7-arm64)
+REAL KALI LINUX
 ----------------
 
 This is a kali build from the bottom of a kali root filesystem
-----------------------------
-    Desktop: XFCE4
-    Kernel: 6.1.0
-    Build Date: 2023/05/07
-----------------------------
-
 The image is 15.8 GB and therefore a 32 GB SD card is recommended(if you want to install software). 
-
 ----------------------------
     login:_______kali
     password:____kali
+    Desktop: XFCE4
+    Kernel: 6.1.0
+    Build Date: 2023/05/07
 ----------------------------
 
 ------------------------------------------------------------------------------
@@ -50,12 +37,9 @@ If you have a black screen after a boot-time of 1 minute and 5 seconds you moust
 
 
 
-!! DO NOT OVERCLOCK WITH 'rsetup' !!
+# DO NOT OVERCLOCK WITH 'rsetup' 
 
-
-
-
-
+____________________________________________________________________________
 DOWNLOADS:
 -----------
 
