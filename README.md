@@ -37,10 +37,10 @@ If you have a black screen after a boot-time of 1 minute and 5 seconds you moust
 
 
 
-# DO NOT OVERCLOCK WITH 'rsetup' 
+# DO NOT OVERCLOCK WITH "rsetup" 
 
 ____________________________________________________________________________
-DOWNLOADS:
+# DOWNLOADS:
 -----------
 
 SD-Card Image: <a href="https://drive.google.com/file/d/1R5yjq9kJbd6lxPB7g_EjfIm-yuXF_8nW/view?usp=sharing">kali-final-2023-05-07.img.xz</a> (3.3 GB)
