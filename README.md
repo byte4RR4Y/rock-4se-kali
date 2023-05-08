@@ -12,6 +12,7 @@ The image is 15.8 GB and therefore a 32 GB SD card is recommended(if you want to
 ----------------------------
     login:_______kali
     password:____kali
+    -----------------
     Desktop: XFCE4
     Kernel: 6.1.0
     Build Date: 2023/05/07
