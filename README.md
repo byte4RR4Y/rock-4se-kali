@@ -45,6 +45,6 @@ DOWNLOADS:
 
 SD-Card Image: <a href="https://drive.google.com/file/d/1R5yjq9kJbd6lxPB7g_EjfIm-yuXF_8nW/view?usp=sharing">kali-final-2023-05-07.img.xz</a> (3.3 GB)
 
-Root Filesystem: <a href="">kali-final-2023-05-08-rootfs.tar.xz</a> (X.X GB)
+Root Filesystem: <a href="https://drive.google.com/file/d/12C-s8PaEAzYtfpXhz2wYFx82ygaCn7m0/view?usp=sharing">kali-final-2023-05-08-rootfs.tar.xz</a> (2.6 GB)
 
 Dockerimage: <a href="https://hub.docker.com/r/byte4rr4y/kalilinux-rock4se">Dockerimage</a> (4.3 GB)
