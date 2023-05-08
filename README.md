@@ -26,6 +26,13 @@ login:_________kali
 password:____kali
 
 
+
+Desktop: XFCE4
+
+Kernel: 6.1.0
+
+Build Date: 2023/05/07
+
 ------------------------------------------------------------------------------
 ! FIRST BOOT TAKES 2 MINUTES AND 12 SECONDS FOR RESIZING THE ROOT FILESYSTEM !
 ------------------------------------------------------------------------------
