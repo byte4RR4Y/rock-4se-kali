@@ -25,11 +25,10 @@ This is a kali build from the bottom of a kali root filesystem
 
 The image is 15.8 GB and therefore a 32 GB SD card is recommended(if you want to install software). 
 
-
-login:_________kali
-
-password:____kali
-
+----------------------------
+    login:_________kali
+    password:____kali
+----------------------------
 
 ------------------------------------------------------------------------------
 ! FIRST BOOT TAKES 2 MINUTES AND 12 SECONDS FOR RESIZING THE ROOT FILESYSTEM !
