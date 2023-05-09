@@ -16,7 +16,7 @@ The image is 16.7 GB and therefore a 32 GB SD card is recommended(if you want to
     ----------------------
     Desktop: XFCE4
     Kernel: 6.1.0
-    Build Date: 2023/05/07
+    Build Date: 2023/05/09
 ----------------------------
 
 ------------------------------------------------------------------------------
