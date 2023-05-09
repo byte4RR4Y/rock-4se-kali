@@ -9,7 +9,7 @@ REAL KALI LINUX
 ----------------
 
 This is a kali build from the bottom of a kali root filesystem
-The image is 15.8 GB and therefore a 32 GB SD card is recommended(if you want to install software). 
+The image is 16.7 GB and therefore a 32 GB SD card is recommended(if you want to install software). 
 ----------------------------
     login:_______kali
     password:____kali
@@ -45,7 +45,7 @@ ____________________________________________________________________________
 # DOWNLOADS:
 -----------
 
-SD-Card Image: <a href="https://drive.google.com/file/d/1R5yjq9kJbd6lxPB7g_EjfIm-yuXF_8nW/view?usp=sharing">kali-final-2023-05-07.img.xz</a> (3.3 GB)
+SD-Card Image: <a href="https://drive.google.com/file/d/13V7PaB7aY-MwC5Vn2QP0vCoSea7RujDL/view?usp=sharing">kali-final-2023-05-09.img.xz</a> (3.5 GB)
 
 Root Filesystem: <a href="https://drive.google.com/file/d/12C-s8PaEAzYtfpXhz2wYFx82ygaCn7m0/view?usp=sharing">kali-final-2023-05-08-rootfs.tar.xz</a> (2.6 GB)
 
