@@ -4,7 +4,7 @@ A Kali Linux ARM image for the RADXA Rock Pi 4 SE - rk3399t
 
 It's a Rolling release, so you can do: 
 -------------------------
-    apt udate && apt upgrade
+    apt update && apt upgrade
 -------------------------
 to be up to date!
 
