@@ -15,7 +15,7 @@ REAL KALI LINUX
 ----------------
 
 This is a kali build from the bottom of a kali root filesystem
-The image is 16.7 GB and therefore a 32 GB SD card is recommended(if you want to install software). 
+The image is 16.7 GB and therefore a 32 GB SD card is required. 
 ----------------------------
     login:_______kali
     password:____kali
