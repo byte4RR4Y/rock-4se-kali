@@ -35,7 +35,12 @@ ISSUES:
 
 1.)BLACK SCREEN:
 
-If you have a black screen after a boot-time of 1 minute and 5 seconds you moust mount the root filesystem on your Linux-Machine and edit /etc/X11/xorg.conf.d/10-monitor.conf and set the right Screenresolution(e.g.: 1920x1080).
+If you have a black screen after a boot-time of 1 minute and 5 seconds you must
+
+mount the root filesystem on your Linux-Machine and edit /etc/X11/xorg.conf.d/10-monitor.conf
+
+and set the right Screenresolution(e.g.: 1920x1080).
+
 -----------------------------------------------------
     Section "Monitor"
          Identifier "HDMI-1"
