@@ -8,7 +8,9 @@ It's a Rolling release, so you can do:
 -------------------------
 to be up to date!
 
-"If it doesn't exist, create it yourself." Daniel Wieczorek
+__________________________________________________________________________________________________
+# "If it doesn't exist, create it yourself." Daniel Wieczorek
+__________________________________________________________________________________________________
 
 ----------------
 REAL KALI LINUX
