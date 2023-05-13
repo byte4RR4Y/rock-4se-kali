@@ -38,7 +38,7 @@ ISSUES:
 
 1.)BLACK SCREEN:
 
-If you have a black screen after a boot-time of 1 minute and 5 seconds you must
+If you have a black screen after a boot-time of 2 minute and 12 seconds you must
 
 mount the root filesystem on your Linux-Machine and edit /etc/X11/xorg.conf.d/10-monitor.conf
 
