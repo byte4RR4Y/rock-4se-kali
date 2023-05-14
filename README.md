@@ -18,7 +18,7 @@ to be up to date!
 ----------------
 REAL KALI LINUX
 ----------------
-Check out Kali-Slim-XFCE-SD-Card-image https://github.com/byte4RR4Y/rock-4se-kalislim
+
 This is a kali build from the bottom of a kali root filesystem
 The image is 16.7 GB and therefore a 32 GB SD card is required. 
 ----------------------------
@@ -60,6 +60,7 @@ and set the right Screenresolution(e.g.: 1920x1080).
 ____________________________________________________________________________
 # DOWNLOADS:
 -----------
+(Check out Kali-Slim-XFCE-SD-Card-image https://github.com/byte4RR4Y/rock-4se-kalislim)
 
 SD-Card Image: <a href="https://drive.google.com/file/d/13V7PaB7aY-MwC5Vn2QP0vCoSea7RujDL/view?usp=sharing">kali-final-2023-05-09.img.xz</a> (3.5 GB)
 
