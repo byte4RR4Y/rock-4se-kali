@@ -58,7 +58,6 @@ and set the right Screenresolution(e.g.: 1920x1080).
 ____________________________________________________________________________
 # DOWNLOADS:
 -----------
-(Check out Kali-Slim-XFCE-SD-Card-image https://github.com/byte4RR4Y/rock-4se-kalislim)
 
 SD-Card Image: <a href="https://drive.google.com/file/d/13V7PaB7aY-MwC5Vn2QP0vCoSea7RujDL/view?usp=sharing">kali-final-2023-05-09.img.xz</a> (3.5 GB)
 
@@ -69,3 +68,7 @@ SD-Card Image Torrent: https://archive.org/download/kali-final-2023-05-09.img/ka
 Root Filesystem: <a href="https://drive.google.com/file/d/1QcKa8FkMXnw676MyZa_9ly5d3Svdw6pl/view?usp=sharing">kali-final-2023-05-09-rootfs.tar.xz</a> (3.2 GB)
 
 Dockerimage: <a href="https://hub.docker.com/r/byte4rr4y/kalilinux-rock4se">Dockerimage</a> (5.0 GB)
+
+
+
+(Check out Kali-Slim-XFCE-SD-Card-image https://github.com/byte4RR4Y/rock-4se-kalislim)
