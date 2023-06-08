@@ -1,4 +1,4 @@
-# Kali Linux XFCE for Radxa Rock Pi 4 SE
+# Kali Linux XFCE for the Radxa Rock Pi 4 SE
 __________________________________________________________________________________________________
 A Kali Linux ARM image for the RADXA Rock Pi 4 SE - rk3399t (tested)
 
