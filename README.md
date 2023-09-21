@@ -8,7 +8,7 @@ ________________________________________________________________________________
 
 It's a Rolling release, so you can do: 
 -------------------------
-    apt update && apt upgrade && apt full-upgrade && apt dist-upgrade
+    apt update -y && apt upgrade -y && apt full-upgrade -y && apt dist-upgrade -y
 -------------------------
 to be up to date!
 
